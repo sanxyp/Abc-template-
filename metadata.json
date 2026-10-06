@@ -1,0 +1,6 @@
+{
+  "name": "ABC School - Inspiring Young Minds, Building Bright Futures",
+  "description": "Official website of ABC School, Chennai. Premier school delivering academic excellence, smart classrooms, state-of-the-art facilities, sports, and holistic character education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
